@@ -12,4 +12,4 @@ Generates sine wave output
 
 Now you should hear sound
 
-![Photograph of the breadboard connections](Breadboard.jpg "Photograph of breadboard connections")
+![Photograph of the breadboard connections](breadboard.jpg "Photograph of breadboard connections")
