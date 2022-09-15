@@ -11,3 +11,5 @@ Generates sine wave output
 5. type task build_and_program_dfu
 
 Now you should hear sound
+
+![Photograph of the breadboard connections](Breadboard.jpg "Photograph of breadboard connections")
