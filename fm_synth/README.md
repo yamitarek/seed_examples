@@ -12,4 +12,6 @@ Generates sine wave output
 
 Now you should hear sound
 
+Listen to this project [here](https://www.youtube.com/watch?v=eYplTYBJNkA)
+
 ![Photograph of the breadboard connections](breadboard.jpg "Photograph of breadboard connections")
